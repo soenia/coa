@@ -1,0 +1,20 @@
+Package: coa
+Title: Compound Assignment Operators
+Version: 0.0.1
+Authors@R: c(
+    person(given = "Sophie", family = "Soenia", role = c("aut", "cre"), email = "sophie@soenia.com")
+  )
+Description: The package provides compound assignment operators for R.
+License: LGPL-3 + file LICENSE
+URL: https://github.com/soenia/coa.git
+BugReports: https://github.com/soenia/coa.git/issues
+ByteCompile: true
+Encoding: UTF-8
+Config/testthat/edition: 3
+Config/testthat/parallel: true
+Roxygen: list(markdown = TRUE)
+Imports:
+  checkmate
+Suggests:
+  testthat
+RoxygenNote: 7.3.0
