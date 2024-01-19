@@ -19,8 +19,8 @@ This is called a "compound assignment" operator
 \seealso{
 Useful links:
 \itemize{
-  \item \url{https://github.com/soenia/coa.git}
-  \item Report bugs at \url{https://github.com/soenia/coa.git/issues}
+  \item \url{https://github.com/soenia/coa}
+  \item Report bugs at \url{https://github.com/soenia/coa/issues}
 }
 
 }
