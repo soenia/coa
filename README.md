@@ -1,5 +1,7 @@
 # Compound Assignments
 
+![r-cmd-check](https://github.com/soenia/coa/actions/workflows/r-cmd-check.yml/badge.svg)
+
 ## Usage
 
 This package provides compound assignment operators:
